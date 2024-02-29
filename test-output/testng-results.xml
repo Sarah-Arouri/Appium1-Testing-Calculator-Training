@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T22:55:41 EET" name="Default suite" finished-at="2024-02-29T22:56:52 EET" duration-ms="71462">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T22:55:41 EET" name="Default test" finished-at="2024-02-29T22:56:52 EET" duration-ms="71462">
+      <class name="appium.mathematicalCalculations">
+        <test-method is-config="true" signature="setup()[pri:0, instance:appium.mathematicalCalculations@35e2d654]" started-at="2024-02-29T22:55:41 EET" name="setup" finished-at="2024-02-29T22:55:41 EET" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="myCalculatorApp()[pri:0, instance:appium.mathematicalCalculations@35e2d654]" started-at="2024-02-29T22:55:41 EET" name="myCalculatorApp" finished-at="2024-02-29T22:56:52 EET" duration-ms="71137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myCalculatorApp -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:appium.mathematicalCalculations@35e2d654]" started-at="2024-02-29T22:56:52 EET" name="myAfterTest" finished-at="2024-02-29T22:56:52 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- appium.mathematicalCalculations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
